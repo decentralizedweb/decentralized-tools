@@ -1,4 +1,4 @@
-# tools
+# Decentralized tools
 Tools for a decentralized web
 
 ## Spec/Protocols
