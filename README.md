@@ -7,6 +7,7 @@ Tools for a decentralized web
 - [Secure Scuttlebutt](https://github.com/ssbc): Mesh networks on user devices
 - [IPFS](http://ipfs.io/): Inter-planetary file system, a peer-to-peer hypermedia protocol
 - [Etherum](https://www.ethereum.org/): Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.
+- [Blockstack](https://github.com/blockstack): A stack of protocols and services/components for building blockchain apps
 
 ## Online identity
 - [WebID](http://www.w3.org/wiki/WebID): Web Identity using LinkedData and TLS/RSA
